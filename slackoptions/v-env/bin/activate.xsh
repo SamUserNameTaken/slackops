@@ -25,7 +25,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/szugas/RetailTools/slackoptions/v-env"
+$VIRTUAL_ENV = r"/Users/szugas/Documents/GitHub/slackops/slackoptions/v-env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

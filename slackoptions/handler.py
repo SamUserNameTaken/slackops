@@ -7,4 +7,4 @@ import serverless_wsgi
 # serverless_wsgi.TEXT_MIME_TYPES.append("application/custom+json")
 
 def handler(event, context):
-    return serverless_wsgi.handle_request(app.slackapp, event, context)
+    return serverless_wsgi.handle_request(slackapp.app, event, context)

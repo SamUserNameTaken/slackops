@@ -1,4 +1,4 @@
-#!/Users/szugas/RetailTools/slackoptions/v-env/bin/python
+#!/Users/szugas/Documents/GitHub/slackops/slackoptions/v-env/bin/python
 
 import sys
 import getopt

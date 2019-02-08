@@ -1,4 +1,4 @@
-#!/Users/szugas/RetailTools/slackoptions/v-env/bin/python3.6
+#!/Users/szugas/Documents/GitHub/slackops/slackoptions/v-env/bin/python3.6
 
 import argparse
 import code
